@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasterCtrl", "CasterCtrl.csproj", "{CC2B8345-E70D-46BF-8E13-C9A8AB41B52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2B8345-E70D-46BF-8E13-C9A8AB41B52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2B8345-E70D-46BF-8E13-C9A8AB41B52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2B8345-E70D-46BF-8E13-C9A8AB41B52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2B8345-E70D-46BF-8E13-C9A8AB41B52D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7714D00-8039-4A0B-9627-51A07C0716B7}
+	EndGlobalSection
+EndGlobal
